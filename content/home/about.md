@@ -5,36 +5,36 @@ active = true
 date = "2016-04-20T00:00:00"
 
 # Order that this section will appear in.
-weight = 5
+weight = 1
 
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Surgical Traning & Simulation",
+    "Multiphysics Modeling",
+    "Virtual Reality"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
+  course = "PhD in Mechanical Engineering"
+  institution = "Rensselaer Polytechnic Institute"
+  year = 2018
+
+[[education.courses]]
+  course = "MSc in Mechanical Engineering"
+  institution = "University of Science and Technology of China"
   year = 2012
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "BSc in Mechanical Engineering"
+  institution = "University of Science and Technology of China"
   year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am a Ph.D. candidate at Center for Modeling, Simulation, & Imaging in Medicine, Mechanical, Aerospace, and Nuclear Engineering Department, Rensselaer Polytechnic Institute, and currently seeking a full-time position as a software engineer or simulation research engineer in robotic-assisted surgery or surgical training and planning field.
+My research is focusing on developing advanced modeling, simulation technology for virtual surgery, and transitioning those technologies to surgical training and planning in clinical practice. My research interests include multi-physics modeling, soft body modeling, topology change management, algorithm acceleration for real-time interactive simulation, interactive GUIs design and etc. 
+I am proficient in several programming languages, such as C++/C and Python, and have solid knowledge of data structures, algorithms.

@@ -3,10 +3,10 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/"
+baseurl = "https://hzGitHub.github.io/"
 
 # Title of your site
-title = "Academic"
+title = "Zhongqing Han"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -23,7 +23,7 @@ paginate = 10
 disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-112157174-1"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
@@ -50,20 +50,20 @@ defaultContentLanguageInSubdir = false
   font = "default"
 
   # Your details.
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
+  name = "Zhongqing Han"
+  role = "Graduate Student Researcher"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Stanford University", url = "" } ]
+  organizations = [ { name = "CeMSIM", url = "http://cemsim.rpi.edu/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
+  avatar = "my.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  email = "hzqingcool2012@gmail.com"
+  address = "2433 22nd ST APT 6, Troy, New York, 12180, USA"
+  office_hours = ""
+  phone = "518 596 93 06"
+  skype = ""
   telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
@@ -217,22 +217,22 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
+    link = "mailto:hzqingcool2012@gmail.com"
 
   [[params.social]]
-    icon = "twitter"
+    icon = "linkedin"
     icon_pack = "fa"
-    link = "//twitter.com/GeorgeCushen"
+    link = "https://www.linkedin.com/in/zhongqing-han/"
 
   [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+    link = "https://scholar.google.com/citations?hl=en&user=cevwJAgAAAAJ&view_op=list_works"
 
   [[params.social]]
-    icon = "github"
+    icon = "file-pdf-o"
     icon_pack = "fa"
-    link = "//github.com/gcushen"
+    link = "pdf/Han_Resume.pdf"
 
 
 # Navigation Links
@@ -249,29 +249,24 @@ defaultContentLanguageInSubdir = false
   weight = 1
 
 [[menu.main]]
-  name = "Publications"
-  url = "#publications_selected"
+  name = "Projects"
+  url = "#projects"
   weight = 2
 
 [[menu.main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Publications"
+  url = "#publications"
   weight = 3
 
 [[menu.main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Experiences"
+  url = "#posts"
   weight = 4
-
-[[menu.main]]
-  name = "Teaching"
-  url = "#teaching"
-  weight = 5
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 5
 
 # Taxonomies.
 [taxonomies]
