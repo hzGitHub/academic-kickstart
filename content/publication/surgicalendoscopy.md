@@ -2,14 +2,14 @@
 abstract = ""
 abstract_short = ""
 authors = ["Michael Dombek", "Carlos A. Lopez", "Zhongqing Han", "etc."]
-date = "2017-05-01"
+date = "2018-02-13"
 image_preview = ""
 math = true
 publication_types = ["2"]
 publication = "Surgical Endoscopy."
 publication_short = ""
 selected = true
-title = "FUSE certification enhances performance on an immersive virtual reality based simulator for dispersive electrode placement"
+title = "FUSE certification enhances performance on a virtual computer based simulator for dispersive electrode placement"
 #url_code = "#"
 #url_dataset = "#"
 #url_pdf = ""
