@@ -2,14 +2,14 @@
 abstract = ""
 abstract_short = ""
 authors = ["Zhongqing Han", "Rahul", "Suvranu De"]
-date = "2017-11-01"
+date = "2018-04-02"
 image_preview = ""
 math = true
 publication_types = ["2"]
 publication = "Computer Methods in Applied Mechanics and Engineering."
-publication_short = "Submitted to *CMAME*"
+publication_short = "Accepted by *CMAME*"
 selected = true
-title = "A multiphysics model for radiofrequency activation of soft tissues"
+title = "A multiphysics model for radiofrequency activation of soft hydrated tissues"
 #url_code = "#"
 #url_dataset = "#"
 #url_pdf = ""
