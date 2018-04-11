@@ -11,7 +11,7 @@ weight = 1
 [interests]
   interests = [
     "Surgical Training & Simulation",
-    "Multiphysics Modeling",
+    "Physics Simulation",
     "Virtual Reality",
     "Machine Learning"
   ]
