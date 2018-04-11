@@ -12,7 +12,8 @@ weight = 1
   interests = [
     "Surgical Training & Simulation",
     "Multiphysics Modeling",
-    "Virtual Reality"
+    "Virtual Reality",
+    "Machine Learning"
   ]
 
 # List your qualifications (such as academic degrees).
