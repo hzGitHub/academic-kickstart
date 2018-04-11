@@ -10,10 +10,10 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
-    "Surgical Training & Simulation",
     "Physics Simulation",
     "Virtual Reality",
-    "Machine Learning"
+    "Machine Learning",
+    "Surgical Training & Simulation"
   ]
 
 # List your qualifications (such as academic degrees).
