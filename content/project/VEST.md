@@ -3,20 +3,19 @@
 date = "2016-04-27"
 
 # Project title.
-title = "CURRENT PATHWAY"
+title = "1. VEST"
 
 # Project summary to display on homepage.
-summary = "Describe the principles of current pathway and how the dispersive electrode protects the patient."
-
+summary = "Virtual reality (VR) based Electrosurgical skill trainer with visual and haptic feedback ((a)Realistic physics-based modeling of the complex bio-physics;(b)Real-time interactive computing;(c)Novel realistic VR interfaces and haptic feedback)."
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "current.jpg"
+image_preview = "demo1.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["current"]
+tags = ["VEST"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "http://cemsim.rpi.edu/research/projects/virtual-electrosurgical-skill-trainer-vest"
 
 # Does the project detail page use math formatting?
 math = true

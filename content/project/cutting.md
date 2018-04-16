@@ -3,10 +3,10 @@
 date = "2016-04-27"
 
 # Project title.
-title = "Virtual Cutting"
+title = "5. Virtual Cutting"
 
 # Project summary to display on homepage.
-summary = "Virtual simulation of surgical cutting using electrosurgical energy."
+summary = "Virtual simulation of surgical cutting."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "cutting.jpg"

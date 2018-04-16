@@ -5,7 +5,7 @@ tags = ["Carl J. Shapiro Simulation & Skills Center, Beth Israel Deaconess Medic
 title = "Workshop of Innovation, Design and Emerging Alliances in Surgery: Virtual Surgery"
 math = true
 summary = """
-Faculty. 
+Brainstorm between surgeons, software engineer, graphics expert, physicist on future of Virtual Surgery.
 """
 
 [header]
@@ -13,7 +13,5 @@ Faculty.
 
 +++
 
-To be continued.
-
-Key features: To be continued.
+Brainstorm between surgeons, software engineer, graphics expert, physicist on future of Virtual Surgery.
 

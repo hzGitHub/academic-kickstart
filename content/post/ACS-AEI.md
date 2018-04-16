@@ -13,7 +13,5 @@ Faculty of workshop - VEST at the 9th Annual ACS-AEI (Division of Education of t
 
 +++
 
-Demonstrate all the modules of VEST.
-
-Key features: To be continued.
+Demonstrated all the modules of VEST. Provided VR simulators session for American college of surgeons- Division of education to enhance patient safety through simulation.
 

@@ -13,7 +13,5 @@ Visiting Allied Health. Demonstration of Module 4 (Current pathway) of VEST.
 
 +++
 
-Demonstrate Module 4 of VEST.
-
-Key features: To be continued.
+Performed face validation of simulator prototype and demonstrated the principles of current pathway through virtual human and how the dispersive electrode protects the patient.
 

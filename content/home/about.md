@@ -36,6 +36,6 @@ weight = 1
 
 # Biography
 
-I am a Ph.D. candidate at Center for Modeling, Simulation, & Imaging in Medicine, Mechanical, Aerospace, and Nuclear Engineering Department, Rensselaer Polytechnic Institute, and currently seeking a full-time position as a software engineer or simulation research engineer in robotic-assisted surgery or surgical training and planning field.
-My research is focusing on developing advanced modeling, simulation technology for virtual surgery, and transitioning those technologies to surgical training and planning in clinical practice. My research interests include multi-physics modeling, soft body modeling, topology change management, algorithm acceleration for real-time interactive simulation, interactive GUIs design and etc. 
+I am a Ph.D. candidate at Center for Modeling, Simulation, & Imaging in Medicine, Mechanical, Aerospace, and Nuclear Engineering Department, Rensselaer Polytechnic Institute, and currently seeking a full-time position as a software engineer or simulation research engineer in robotic-assisted surgery or robotics simulation.
+My research is focusing on developing advanced modeling, simulation technology for virtual surgery, and transitioning those technologies to surgical training and planning in clinical practice. My research interests include multi-physics simulation, rigid/soft body modeling, topology change management, algorithm acceleration for real-time interactive simulation, interactive GUIs design and etc. 
 I am proficient in several programming languages, such as C++/C and Python, and have solid knowledge of data structures, algorithms.

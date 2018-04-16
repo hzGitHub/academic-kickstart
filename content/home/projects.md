@@ -5,7 +5,7 @@ active = true
 date = "2016-04-20T00:00:00"
 
 title = "Projects"
-subtitle = ""
+subtitle = "Click to see details"
 
 # Order that this section will appear in.
 weight = 10
@@ -32,28 +32,26 @@ filter_default = 0
    name = "All"
    tag = "*"
 
-[[filter]]
+ [[filter]]
+   name = "Virtual Electrosurgical Skill Trainer (VEST)"
+   tag = ".VEST"
+
+ [[filter]]
   name = "Virtual Cutting"
   tag = ".cutting"
 
-[[filter]]
-  name = "Physics-based Tissue Effects"
-  tag = ".tissue"
+ [[filter]]
+   name = "Virtual Basic Laparoscopic Skill Trainer (VBLaST) - Peg Transfer"
+   tag = ".VBLaST"
 
-[[filter]]
-  name = "Current Pathway"
-  tag = ".current"
-  
-[[filter]]
-  name = "OR Fire"
-  tag = ".fire"
 
-[[filter]]
+
+ [[filter]]
   name = "Soft Tissue Thermomechanics"
   tag = ".characterization"
 
-[[filter]]
-  name = "Multi-physics Multi-scale Algorithms"
+ [[filter]]
+  name = "Efficient Algorithms"
   tag = ".coupled"    
 
 +++

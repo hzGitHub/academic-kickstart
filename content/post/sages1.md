@@ -12,8 +12,7 @@ Visiting Allied Health for SAGES (Society of American Gastrointestinal and Endos
 image = ""
 
 +++
-
-Demonstrate understanding of principles of current diversion using Virtual Reality (HTC VIVE).
+Performed face validation of simulator prototype and demonstrated understanding of principles of current diversion using Virtual Reality (HTC VIVE).
 
 Key features:
 
