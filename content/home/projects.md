@@ -52,7 +52,7 @@ filter_default = 0
 
  [[filter]]
   name = "Efficient Algorithms"
-  tag = ".coupled"    
+  tag = ".algorithms"    
 
 +++
 
